@@ -95,9 +95,6 @@ Go to netlify.com/drop
 Drag your portfolio.html file onto the page
 Get an instant live URL — done in seconds
 
-Vercel
-bashnpm i -g vercel
-vercel --name portfolio
 
 ✏️ Customization Guide
 Update Personal Info
@@ -146,7 +143,7 @@ html<a href="your-resume.pdf" download class="btn-secondary">⬇ Download CV</a>
 Bharath Kumar Reguchinthala
 
 📧 Email: reguchinthalabharathkumar@gmail.com
-💼 LinkedIn: linkedin.com/in/bharathkumar-reguchinthala-0817b2293
+💼 LinkedIn: (https://www.linkedin.com/in/bharath-kumar-reguchinthala-0817b2293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 🐙 GitHub: github.com/Bharathkumar-6309
 📍 Location: Hyderabad, Telangana, India
 
